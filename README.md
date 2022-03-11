@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/0W0SqouqCWjFZeOqdG/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/6mnJlHlmZ9ZHThkIRE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Twitter - Part I
 
